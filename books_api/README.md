@@ -1,5 +1,8 @@
 # BooksApi
 
+Following along with this tutorial
+[Simple REST API with Elixir Phoenix](https://www.dairon.org/2020/07/06/simple-rest-api-with-elixir-phoenix.html)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
