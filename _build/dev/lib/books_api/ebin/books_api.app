@@ -7,6 +7,7 @@
               {description,"books_api"},
               {modules,['Elixir.BooksApi','Elixir.BooksApi.Application',
                         'Elixir.BooksApi.Mailer','Elixir.BooksApi.Repo',
+                        'Elixir.BooksApi.Store','Elixir.BooksApi.Store.Book',
                         'Elixir.BooksApiWeb','Elixir.BooksApiWeb.Endpoint',
                         'Elixir.BooksApiWeb.ErrorHelpers',
                         'Elixir.BooksApiWeb.ErrorView',
